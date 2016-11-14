@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "33BCFF635A418F5D4A8EEEA5260AB0A7803E488E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "78327C9E97D1231DFF2F6C2E56EE4DF6B18473C3" : 9223372036854775807,
+    "33BCFF635A418F5D4A8EEEA5260AB0A7803E488E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "29C54513-1AF1-4271-9D82-24435465A190",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "78327C9E97D1231DFF2F6C2E56EE4DF6B18473C3" : "..",
+    "33BCFF635A418F5D4A8EEEA5260AB0A7803E488E" : "java_codechef\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "java_codechef",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "java_codechef.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mpro34\/data_structs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "33BCFF635A418F5D4A8EEEA5260AB0A7803E488E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dracula\/xcode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78327C9E97D1231DFF2F6C2E56EE4DF6B18473C3"
+    }
+  ]
+}
