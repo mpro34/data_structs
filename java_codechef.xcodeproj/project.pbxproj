@@ -7,8 +7,12 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		5432633B1DDBB232009E42C8 /* Node.class */ = {isa = PBXFileReference; lastKnownFileType = compiled.javaclass; path = Node.class; sourceTree = "<group>"; };
 		5432633C1DDBB23F009E42C8 /* main.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = main.java; sourceTree = "<group>"; };
+=======
+		0B1886D51DDACEC300DEB93D /* LinkedArray.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = LinkedArray.java; sourceTree = "<group>"; };
+>>>>>>> b072dfd081286467e95507f5d0184e3c98f83a7b
 		5471B2BD1DDA31BD00BF25E7 /* BinTree.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = BinTree.java; sourceTree = "<group>"; };
 		5471B2BE1DDA321D00BF25E7 /* main2.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = main2.java; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -17,8 +21,12 @@
 		5471B2B51DDA317F00BF25E7 = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				5432633C1DDBB23F009E42C8 /* main.java */,
 				5432633B1DDBB232009E42C8 /* Node.class */,
+=======
+				0B1886D51DDACEC300DEB93D /* LinkedArray.java */,
+>>>>>>> b072dfd081286467e95507f5d0184e3c98f83a7b
 				5471B2BE1DDA321D00BF25E7 /* main2.java */,
 				5471B2BD1DDA31BD00BF25E7 /* BinTree.java */,
 			);
